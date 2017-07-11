@@ -63,6 +63,9 @@
         },
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "com.gusenbauer.camera-app"
+        },
+        "cordova-plugin-crosswalk-webview": {
+            "PACKAGE_NAME": "com.gusenbauer.camera-app"
         }
     },
     "dependent_plugins": {
